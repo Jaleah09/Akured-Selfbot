@@ -11,8 +11,6 @@
     Some random skid -> https://www.youtube.com/watch?v=kHmBCK7nrhc
       
 # INFO
- - Official page http://alucard.wtf | Back up
- - Official shop https://hexpay.gg/u/Alucard-Selfbot/ | Back up
 
 ###### if you know how to install requirements.txt then you are one step ahead of everyone else! Congrats!
   - Put token into "config" save, and click start. 
